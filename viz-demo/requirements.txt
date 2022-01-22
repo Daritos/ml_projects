@@ -16,3 +16,14 @@ kaleido==0.1.0post1  # Render images (note: later version have issues on windows
 
 #
 python-pptx # power point library
+
+# PDF resource extraction
+PyPDF2 #PyPDF
+
+## Tables
+camelot-py[base]
+opencv-python
+
+## Images
+PyMuPDF 
+Pillow
